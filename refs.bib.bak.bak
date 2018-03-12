@@ -1,0 +1,163 @@
+@inproceedings{zhou2010canonical,
+  title={Canonical Image Selection by Visual Context Learning},
+  author={Zhou, Wengang and Lu, Yijuan and Li, Houqiang and Tian, Qi},
+  booktitle={Pattern Recognition (ICPR), 2010 20th International Conference on},
+  pages={834--837},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{merkle2007efficient,
+  title={Efficient prediction structures for multiview video coding},
+  author={Merkle, Philipp and Smoli{\'c}, Aljoscha and M{\"u}ller, Karsten and Wiegand, Thomas},
+  journal={Circuits and Systems for Video Technology, IEEE Transactions on},
+  volume={17},
+  number={11},
+  pages={1461--1473},
+  year={2007},
+  publisher={IEEE}
+}
+
+@ARTICLE{shi2014photo,
+author={Zhongbo Shi and Xiaoyan Sun and Feng Wu},
+journal={Emerging and Selected Topics in Circuits and Systems, IEEE Journal on},
+title={Photo Album Compression for Cloud Storage Using Local Features},
+year={2014},
+month={March},
+volume={4},
+number={1},
+pages={17-28},
+}
+
+@article{snavely2008modeling,
+  title={Modeling the world from internet photo collections},
+  author={Snavely, Noah and Seitz, Steven M and Szeliski, Richard},
+  journal={International Journal of Computer Vision},
+  volume={80},
+  number={2},
+  pages={189--210},
+  year={2008},
+  publisher={Springer}
+}
+
+@incollection{gao2014hot,
+  title={Hot Research Topics in Video Coding and Systems},
+  author={Gao, Wen and Ma, Siwei},
+  booktitle={Advanced Video Coding Systems},
+  pages={211--231},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{snavely2006photo,
+  title={Photo tourism: exploring photo collections in 3D},
+  author={Snavely, Noah and Seitz, Steven M and Szeliski, Richard},
+  booktitle={ACM transactions on graphics (TOG)},
+  volume={25},
+  number={3},
+  pages={835--846},
+  year={2006},
+  organization={ACM}
+}
+
+@article{wallace1991jpeg,
+  title={The JPEG still picture compression standard},
+  author={Wallace, Gregory K},
+  journal={Communications of the ACM},
+  volume={34},
+  number={4},
+  pages={30--44},
+  year={1991},
+  publisher={AcM}
+}
+
+@article{sullivan2012overview,
+  title={Overview of the high efficiency video coding (HEVC) standard},
+  author={Sullivan, Gary J and Ohm, Jens and Han, Woo-Jin and Wiegand, Thomas},
+  journal={Circuits and Systems for Video Technology, IEEE Transactions on},
+  volume={22},
+  number={12},
+  pages={1649--1668},
+  year={2012},
+  publisher={IEEE}
+}
+@inproceedings{musatenko1998correlated,
+  title={Correlated image set compression system based on new fast efficient algorithm of Karhunen-Loeve transform},
+  author={Musatenko, Yurij S and Kurashov, Vitalij N},
+  booktitle={Photonics East (ISAM, VVDC, IEMB)},
+  pages={518--529},
+  year={1998},
+  organization={International Society for Optics and Photonics}
+}
+@article{karadimitriou1998centroid,
+  title={The centroid method for compressing sets of similar images},
+  author={Karadimitriou, Kosmas and Tyler, John M},
+  journal={Pattern Recognition Letters},
+  volume={19},
+  number={7},
+  pages={585--593},
+  year={1998},
+  publisher={Elsevier}
+}
+@article{ait2006comparison,
+  title={A comparison of set redundancy compression techniques},
+  author={Ait-Aoudia, Samy and Gabis, Abdelhalim},
+  journal={EURASIP Journal on Applied Signal Processing},
+  volume={2006},
+  pages={216--216},
+  year={2006},
+  publisher={Hindawi Publishing Corp.}
+}
+@inproceedings{yeung2011compressing,
+  title={Compressing similar image sets using low frequency template},
+  author={Yeung, Chi-Ho and Au, Oscar C and Tang, Ketan and Yu, Zhiding and Luo, Enming and Wu, Yannan and Tu, Shing Fat},
+  booktitle={Multimedia and Expo (ICME), 2011 IEEE international Conference on},
+  pages={1--6},
+  year={2011},
+  organization={IEEE}
+}
+@inproceedings{au2012digital,
+  title={Digital photo album compression based on global motion compensation and intra/inter prediction},
+  author={Au, Oscar and Li, Sijin and Zou, Ruobing and Dai, Wei and Sun, Lin},
+  booktitle={Audio, Language and Image Processing (ICALIP), 2012 International Conference on},
+  pages={84--90},
+  year={2012},
+  organization={IEEE}
+}
+@inproceedings{zou2013personal,
+  title={Personal photo album compression and management},
+  author={Zou, Ruobing and Au, Oscar C and Zhou, Guyue and Dai, Wei and Hu, Wei and Wan, Pengfei},
+  booktitle={Circuits and Systems (ISCAS), 2013 IEEE International Symposium on},
+  pages={1428--1431},
+  year={2013},
+  organization={IEEE}
+}
+@inproceedings{schmieder2009study,
+  title={A Study of Clustering Algorithms and Validity for Lossy Image Set Compression.},
+  author={Schmieder, Anthony and Cheng, Howard and Li, Xiaobo},
+  booktitle={IPCV},
+  pages={501--506},
+  year={2009}
+}
+@inproceedings{chen2004image,
+  title={Image set compression through minimal-cost prediction structures.},
+  author={Chen, Chia-Ping and Chen, Chu-Song and Chung, Kuo-Liang and Lu, Hsueh-I and Tang, Gregory Y},
+  booktitle={ICIP},
+  pages={1289--1292},
+  year={2004}
+}
+@inproceedings{lu2004digital,
+  title={Digital photo similarity analysis in frequency domain and photo album compression},
+  author={Lu, Yang and Wong, Tien-Tsin and Heng, Pheng-Ann},
+  booktitle={Proceedings of the 3rd international conference on Mobile and ubiquitous multimedia},
+  pages={237--244},
+  year={2004},
+  organization={ACM}
+}
+@article{ivekovic2005fundamentals,
+  title={Fundamentals of multiple view geometry},
+  author={Ivekovic, Spela and Fusiello, Andrea and Trucco, Emanuele},
+  journal={O. Schreer, P. Kauff, and T. Sikora, editors D},
+  volume={3},
+  year={2005}
+}

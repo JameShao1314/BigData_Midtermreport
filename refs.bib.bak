@@ -1,0 +1,124 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: GBK
+@article{simonyan2014very,
+  title={Very deep convolutional networks for large-scale image recognition},
+  author={Simonyan, Karen and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1409.1556},
+  year={2014}
+}
+@inproceedings{szegedy2017inception,
+  title={Inception-v4, inception-resnet and the impact of residual connections on learning.},
+  author={Szegedy, Christian and Ioffe, Sergey and Vanhoucke, Vincent and Alemi, Alexander A},
+  booktitle={AAAI},
+  volume={4},
+  pages={12},
+  year={2017}
+}
+@inproceedings{he2016deep,
+  title={Deep residual learning for image recognition},
+  author={He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={770--778},
+  year={2016}
+}
+@inproceedings{ren2015faster,
+  title={Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  booktitle={Advances in neural information processing systems},
+  pages={91--99},
+  year={2015}
+}
+@inproceedings{mikolov2013distributed,
+  title={Distributed representations of words and phrases and their compositionality},
+  author={Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg S and Dean, Jeff},
+  booktitle={Advances in neural information processing systems},
+  pages={3111--3119},
+  year={2013}
+}
+@article{mikolov2013efficient,
+  title={Efficient estimation of word representations in vector space},
+  author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
+  journal={arXiv preprint arXiv:1301.3781},
+  year={2013}
+}
+@article{lecun2015deep,
+  title={Deep learning},
+  author={LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey},
+  journal={Nature},
+  volume={521},
+  number={7553},
+  pages={436--444},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{vinyals2015show,
+  title={Show and tell: A neural image caption generator},
+  author={Vinyals, Oriol and Toshev, Alexander and Bengio, Samy and Erhan, Dumitru},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3156--3164},
+  year={2015}
+}
+@inproceedings{you2016image,
+  title={Image captioning with semantic attention},
+  author={You, Quanzeng and Jin, Hailin and Wang, Zhaowen and Fang, Chen and Luo, Jiebo},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4651--4659},
+  year={2016}
+}
+@inproceedings{mikolov2010recurrent,
+  title={Recurrent neural network based language model.},
+  author={Mikolov, Tomas and Karafi{\'a}t, Martin and Burget, Lukas and Cernock{\`y}, Jan and Khudanpur, Sanjeev},
+  booktitle={Interspeech},
+  volume={2},
+  pages={3},
+  year={2010}
+}
+@article{simonyan2014very,
+  title={Very deep convolutional networks for large-scale image recognition},
+  author={Simonyan, Karen and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1409.1556},
+  year={2014}
+}
+@inproceedings{graves2013speech,
+  title={Speech recognition with deep recurrent neural networks},
+  author={Graves, Alex and Mohamed, Abdel-rahman and Hinton, Geoffrey},
+  booktitle={Acoustics, speech and signal processing (icassp), 2013 ieee international conference on},
+  pages={6645--6649},
+  year={2013},
+  organization={IEEE}
+}
+@article{lecun1998gradient,
+  title={Gradient-based learning applied to document recognition},
+  author={LeCun, Yann and Bottou, L{\'e}on and Bengio, Yoshua and Haffner, Patrick},
+  journal={Proceedings of the IEEE},
+  volume={86},
+  number={11},
+  pages={2278--2324},
+  year={1998},
+  publisher={IEEE}
+}
+
+@article{xie2013overlapping,
+  title={Overlapping community detection in networks: The state-of-the-art and comparative study},
+  author={Xie, Jierui and Kelley, Stephen and Szymanski, Boleslaw K},
+  journal={ACM Computing Surveys (csur)},
+  volume={45},
+  number={4},
+  pages={43},
+  year={2013},
+  publisher={ACM}
+}
+@inproceedings{krizhevsky2012imagenet,
+  title={Imagenet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  booktitle={Advances in neural information processing systems},
+  pages={1097--1105},
+  year={2012}
+}
+@inproceedings{vedantam2015cider,
+  title={Cider: Consensus-based image description evaluation},
+  author={Vedantam, Ramakrishna and Lawrence Zitnick, C and Parikh, Devi},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4566--4575},
+  year={2015}
+}
